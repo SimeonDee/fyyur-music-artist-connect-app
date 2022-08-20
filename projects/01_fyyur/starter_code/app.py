@@ -1,3 +1,11 @@
+###########################################################################
+# Contributor: Adedoyin Simeon Adeyemi
+# LinkedIn:    https://www.linkedin.com/in/adedoyin-adeyemi-a7827b160/
+# GitHub:      https://github.com/SimeonDee
+# Project:     https://github.com/SimeonDee/fyyur-music-artist-connect-app
+# Date:        20th August, 2022
+###########################################################################
+
 #----------------------------------------------------------------------------#
 # Imports
 #----------------------------------------------------------------------------#
